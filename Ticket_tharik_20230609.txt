@@ -1,0 +1,38 @@
+Welcom to Our Shop
+====================================
+Category: Ticket
+====================================
+Customer Number: tharik
+Customer Phone: 
+Billing Number: 918
+Payment Mode: 
+
+====================================
+Ticket Details:
+Source: 
+Destination: 
+Date of Travel: 
+Booking Date: 2023-06-09
+Ticket Price: 22
+Passengers: 3
+PNR: 
+Type: 
+====================================
+
+Visa Details:
+Visa Number: 
+Booking Date: 2023-06-09
+Country: 
+Mode: 
+Price: 
+
+====================================
+Certificate Details:
+Number: 
+Country: 
+Type: 
+Price: 
+
+====================================
+Total: 66
+Thank you shopping with us
